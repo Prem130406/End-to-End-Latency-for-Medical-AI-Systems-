@@ -1,2 +1,2 @@
-# End-to-End-Latency-for-Medical-AI-Systems-
+# End-to-End-Latency-for-Medical-AI-Systems
 Reproduced As a Group Project
