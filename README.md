@@ -129,11 +129,4 @@ python plotting/fig7c.py
 - CPU pinning is enabled for the IMG-MPS-Pin configuration via `env/pin_cpu.sh`.
 - If you are reproducing on different GPUs, keep the naming consistent; the scripts only care about device indices.
 
-## Recreate in one go
-
-```
-bash scripts/demo_all.sh
-python parse/compute_metrics.py runs all data/metrics.csv
-python plotting/plot_all.py
-```
 
