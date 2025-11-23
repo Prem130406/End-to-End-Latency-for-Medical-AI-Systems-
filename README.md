@@ -1,4 +1,4 @@
-# Holoscan Latency Determinism — Reproduction Pack
+# Holoscan Latency Determinism
 
 This repository contains the exact steps I used to collect data and reproduce the results for three groups of experiments:
 1) Single GPU with and without CUDA Multi-Process Service (Figures 5a–5c)
