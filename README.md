@@ -56,7 +56,7 @@ For a compiled app:
 export HOLO_APP="/path/to/bin/endoscopy_app --args"
 ```
 
-## Part A — Single GPU, with and without CUDA MPS (Figures 5a–5c)
+## Part A : Single GPU, with and without CUDA MPS (Figures 5a–5c)
 
 acquisition:
 ```
@@ -81,7 +81,7 @@ python plotting/fig5b.py
 python plotting/fig5c.py
 ```
 
-## Part B — Isolated compute and graphics on multiple GPUs (Figures 6a–6c)
+## Part B : Isolated compute and graphics on multiple GPUs (Figures 6a–6c)
 
 acquisition:
 ```
@@ -102,7 +102,7 @@ python plotting/fig6b.py
 python plotting/fig6c.py
 ```
 
-## Part C — All configurations (Figures 7a–7c)
+## Part C : All configurations (Figures 7a–7c)
 
 acquisition:
 ```
